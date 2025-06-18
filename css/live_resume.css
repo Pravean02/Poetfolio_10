@@ -7529,7 +7529,7 @@ aside .widget {
 header {
   display: flex;
   padding-left: 240px;
-  padding-top: 16px;
+  padding-top: 8px;
   padding-bottom: 16px;
   background-color: #f3f3f3;
   z-index: 1000; }
