@@ -71,7 +71,7 @@ document.getElementById("contactForm").addEventListener("submit", async function
   const formData = new FormData(form);
 
   try {
-    const response = await fetch("https://api.webforms.com/submit", {
+    const response = await fetch("https://api.web3forms.com/submit", {
       method: "POST",
       body: formData
     });
