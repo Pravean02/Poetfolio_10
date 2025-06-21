@@ -8242,6 +8242,7 @@ main {
 .github-button:hover {
     background-color: #0056b3; /* Darker on hover */
     transform: translateY(-2px);
+  background-color: #000000;
 }
 
 /* Responsive adjustments for smaller screens */
